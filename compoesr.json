@@ -1,0 +1,27 @@
+{
+    "name": "BaoJiaLi/WeChatDevtools",
+    "description": "直接调用接口实现通过命令行或 HTTP 请求指示微信开发者工具进行登录、预览、上传等操作。",
+    "version": "1.0.0",
+    "keywords": [
+        "BaoJiaLi",
+        "yitianli",
+        "livsyitian",
+        "laravel",
+        "WeChatDevtools"
+    ],
+    "homepage": "https://gitee.com/yitianli/WeChatDevtools",
+    "authors": [
+        {
+            "name": "BaoJia LI",
+            "email": "kingeliteclub@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BaoJiaLi\\WeChatDevtools\\": "src/"
+        }
+    }
+}
